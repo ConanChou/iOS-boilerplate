@@ -26,6 +26,10 @@ The project contains some examples with the use of those utility classes:
   - haihai
   - hh
   - a a 
+  - Search bar that autocompletes locations.  
+  - 
+  - 
+  - test Chu KAi
 
 Some screenshots:
 
