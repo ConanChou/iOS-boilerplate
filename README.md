@@ -1,6 +1,3 @@
-test
-hahahahahahahahahahaha
-sdflksajdflkjsadlkfjlsakjdf
 What is IOS Boilerplate
 -----------------------
 
@@ -25,10 +22,6 @@ The project contains some examples with the use of those utility classes:
   - Example that shows how to implement a swipeable cell
   - ViewController that uses MapOverlays and the Google Maps API to show the directions between two points.
   - Search bar that autocompletes locations.
-  - haihai
-  - hh
-  - a a 
-  - Search bar that autocompletes locations.  
 
 Some screenshots:
 
