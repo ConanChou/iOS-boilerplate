@@ -1,4 +1,6 @@
 test
+hahahahahahahahahahaha
+sdflksajdflkjsadlkfjlsakjdf
 What is IOS Boilerplate
 -----------------------
 
@@ -27,9 +29,6 @@ The project contains some examples with the use of those utility classes:
   - hh
   - a a 
   - Search bar that autocompletes locations.  
-  - 
-  - 
-  - test Chu KAi
 
 Some screenshots:
 
